@@ -1,0 +1,330 @@
+.background {
+    background-color: #1c233d;
+}
+.px-24 {
+    padding-left: 6rem;
+    padding-right: 6rem;
+}
+
+body {
+    margin: 0;
+    line-height: inherit;
+}
+py-5 {
+    padding-top: 1.25rem;
+    padding-bottom: 1.25rem;
+}
+header{
+    margin-top: 30px;
+}
+.justify-between {
+    justify-content: space-between;
+}
+.flex {
+    display: flex;
+}
+.text-white {
+    --tw-text-opacity: 1;
+    color: rgb(255 255 255 / var(--tw-text-opacity));
+}
+.text-2xl {
+    font-size: 1.5rem;
+    line-height: 2rem;
+}
+.space-g {
+    font-family: "Space Grotesk", sans-serif;
+}
+blockquote, dd, dl, figure, h1, h2, h3, h4, h5, h6, hr, p, pre {
+    margin: 0;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-size: inherit;
+    font-weight: inherit;
+}
+
+.gap-10 {
+    gap: 2.5rem;
+}
+
+.flex {
+    display: flex;
+}
+menu, ol, ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.background {
+    background-color: #1c233d;
+}
+
+.text-white {
+    --tw-text-opacity: 1;
+    color: rgb(255 255 255 / var(--tw-text-opacity));
+}
+.border-none {
+    border-style: none;
+}
+button, input, optgroup, select, textarea {
+    font-family: inherit;
+    font-feature-settings: inherit;
+    font-variation-settings: inherit;
+    font-size: 100%;
+    font-weight: inherit;
+    line-height: inherit;
+    color: inherit;
+    margin: 0;
+    padding: 0;
+}
+
+.rounded {
+    border-radius: 0.25rem;
+}
+.w-24 {
+    width: 6rem;
+}
+.h-8 {
+    height: 2rem;
+}
+.btn-gradient {
+    background: linear-gradient( 85.76deg, rgba(191, 196, 238, 0.0945738) -105.02%, #c367e6 10.94%, rgba(190, 206, 239, 0) 121.57% );
+}
+.text-color {
+    color: #e5e5e5;
+}
+.space-g {
+    font-family: "Space Grotesk", sans-serif;
+}
+[role=button], button {
+    cursor: pointer;
+}
+
+.justify-between {
+    justify-content: space-between;
+}
+.flex {
+    display: flex;
+}
+
+.mt-20 {
+    margin-top: 5rem;
+}
+
+.text-white {
+    --tw-text-opacity: 1;
+    color: rgb(255 255 255 / var(--tw-text-opacity));
+}
+
+.font-bold {
+    font-weight: 700;
+}
+
+
+.text-6xl {
+    font-size: 3.75rem;
+    line-height: 1;
+}
+.space-g {
+    font-family: "Space Grotesk", sans-serif;
+}
+blockquote, dd, dl, figure, h1, h2, h3, h4, h5, h6, hr, p, pre {
+    margin: 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-size: inherit;
+    font-weight: inherit;
+}
+
+.text-white {
+    --tw-text-opacity: 1;
+    color: rgb(255 255 255 / var(--tw-text-opacity));
+}
+.text-base {
+    font-size: 1rem;
+    line-height: 1.5rem;
+}
+.pt-8 {
+    padding-top: 2rem;
+}
+.poppins {
+    font-family: "Poppins", sans-serif;
+}
+blockquote, dd, dl, figure, h1, h2, h3, h4, h5, h6, hr, p, pre {
+    margin: 0;
+}
+.text-white {
+    --tw-text-opacity: 1;
+    color: rgb(255 255 255 / var(--tw-text-opacity));
+}
+
+.text-base {
+    font-size: 1rem;
+    line-height: 1.5rem;
+}
+
+.rounded {
+    border-radius: 0.25rem;
+}
+
+.w-52 {
+    width: 13rem;
+}
+
+.h-10 {
+    height: 2.5rem;
+}
+
+.mt-6 {
+    margin-top: 1.5rem;
+}
+.btn-gradient {
+    background: linear-gradient( 85.76deg, rgba(191, 196, 238, 0.0945738) -105.02%, #c367e6 10.94%, rgba(190, 206, 239, 0) 121.57% );
+}
+
+.space-g {
+    font-family: "Space Grotesk", sans-serif;
+}
+
+[role=button], button {
+    cursor: pointer;
+}
+
+[type=button], [type=reset], [type=submit], button {
+    -webkit-appearance: button;
+    background-color: transparent;
+    background-image: none;
+}
+
+button, select {
+    text-transform: none;
+}
+
+button, input, optgroup, select, textarea {
+    font-family: inherit;
+    font-feature-settings: inherit;
+    font-variation-settings: inherit;
+    font-size: 100%;
+    font-weight: inherit;
+    line-height: inherit;
+    color: inherit;
+    margin: 0;
+    padding: 0;
+}
+
+.justify-between {
+    justify-content: space-between;
+}
+.flex {
+    display: flex;
+}
+.mt-20 {
+    margin-top: 5rem;
+}
+
+.text-white {
+    --tw-text-opacity: 1;
+    color: rgb(255 255 255 / var(--tw-text-opacity));
+}
+.text-4xl {
+    font-size: 2.25rem;
+    line-height: 2.5rem;
+}
+.space-g {
+    font-family: "Space Grotesk", sans-serif;
+}
+blockquote, dd, dl, figure, h1, h2, h3, h4, h5, h6, hr, p, pre {
+    margin: 0;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-size: inherit;
+    font-weight: inherit;
+}
+
+.pt-7 {
+    padding-top: 1.75rem;
+}
+
+.pb-7 {
+    padding-bottom: 1.75rem;
+}
+
+.px-9 {
+    padding-left: 2.25rem;
+    padding-right: 2.25rem;
+}
+
+.bg-\[\#30384D\] {
+    --tw-bg-opacity: 1;
+    background-color: rgb(48 56 77 / var(--tw-bg-opacity));
+}
+.rounded-xl {
+    border-radius: 0.75rem;
+}
+
+img, video {
+    max-width: 100%;
+    height: auto;
+}
+audio, canvas, embed, iframe, img, object, svg, video {
+    display: block;
+    vertical-align: middle;
+}
+
+.pt-4 {
+    padding-top: 1rem;
+}
+.justify-between {
+    justify-content: space-between;
+}
+
+.flex {
+    display: flex;
+}
+
+.pt-4 {
+    padding-top: 1rem;
+}
+.gap-5 {
+    gap: 1.25rem;
+}
+
+.justify-between {
+    justify-content: space-between;
+}
+.flex {
+    display: flex;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.text-xs {
+    font-size: 0.75rem;
+    line-height: 1rem;
+}
+.ash {
+    color: #545c71;
+}
+.dm-mono {
+    font-family: "DM Mono", monospace;
+}
+.gap-2 {
+    gap: 0.5rem;
+}
+
+.justify-center {
+    justify-content: center;
+}
+
+.flex {
+    display: flex;
+}
+.mt-20 {
+    margin-top: 5rem;
+}
+.h-5 {
+ width: 25px;
+}

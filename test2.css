@@ -1,0 +1,27 @@
+h1 {
+    text-align: center;
+}
+
+button {
+    margin-left: 10px;
+}
+
+p {
+    border-style: soild;
+    text-align: center;
+}
+.container{
+    text-align: center;
+    background-color: antiquewhite;
+    border: 0px solid black;
+    padding: 20px;
+    margin-left: 500px;
+    margin-right: 500px;
+}
+
+#colorCode {
+    width: 100px;
+    border: none;
+    background-color: transparent;
+    font-weight: bold;
+}
